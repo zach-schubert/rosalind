@@ -1,0 +1,4 @@
+biopython==1.71
+lxml==4.1.0
+requests==2.18.4
+scikit-bio==0.5.2
